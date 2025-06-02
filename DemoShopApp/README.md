@@ -4,6 +4,12 @@ A demo shopping application built with **React**, created to explore key React c
 
 ---
 
+## 🔗 Live Demo
+
+[View the Live App](https://react-learning-seven-iota.vercel.app/)
+
+---
+
 ## 📚 What I Learned
 
 - 🔄 Dynamically updating UI using **props**
